@@ -365,3 +365,5 @@ README.html
 ### Git Commands
 - Commit in the past
   - ```git commit --date="3 day ago" -m "happy new year" ```
+  - Set your username: ```git config --global user.name "FIRST_NAME LAST_NAME"```
+  - Set your email address: ```git config --global user.email "MY_NAME@example.com"```
