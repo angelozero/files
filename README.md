@@ -363,11 +363,9 @@ README.html
 ```
 
 ### Git Commands
-- Commit in the past
   - ```git commit --date="3 day ago" -m "happy new year" ```
   - ```git config --global user.name "FIRST_NAME LAST_NAME"```
   - ```git config --global user.email "MY_NAME@example.com"```
   - ```git checkout .```
   - ```git clone```
   - ```git commit -M```
-  
