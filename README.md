@@ -362,5 +362,6 @@ README.html
 .exercism
 ```
 
-### test
-- simple test
+### Git Commands
+- Commit in the past
+  - ```git commit --date="3 day ago" -m "happy new year" ```
