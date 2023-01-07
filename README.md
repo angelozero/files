@@ -368,4 +368,6 @@ README.html
   - ```git config --global user.email "MY_NAME@example.com"```
   - ```git checkout .```
   - ```git clone```
+  - ```gitt add -A```
   - ```git commit -M```
+  - ```git push origin [BRANCH_NAME]```
