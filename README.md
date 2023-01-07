@@ -363,9 +363,9 @@ README.html
 ```
 
 ### Git Commands
-  - ```git commit --date="3 day ago" -m "happy new year" ```
-  - ```git config --global user.name "FIRST_NAME LAST_NAME"```
-  - ```git config --global user.email "MY_NAME@example.com"```
+  - Commit para alguns dias anteriores ..... ```git commit --date="3 day ago" -m "happy new year" ```
+  - Configurando o nome do usuário ......... ```git config --global user.name "FIRST_NAME LAST_NAME"```
+  - Configurando o email do usuário ........ ```git config --global user.email "MY_NAME@example.com"```
   - ```git checkout .```
   - ```git clone```
   - ```gitt add -A```
