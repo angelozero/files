@@ -367,7 +367,7 @@ README.html
   - Configurando o nome do usuário ......... ```git config --global user.name "FIRST_NAME LAST_NAME"```
   - Configurando o email do usuário ........ ```git config --global user.email "MY_NAME@example.com"```
   - Reverter todas as alterações ........... ```git checkout .```
-  - ```git clone```
-  - ```gitt add -A```
+  - Copiar um repositório .................. ```git clone```
+  - Adicionar todas as alterações .......... ```gitt add -A```
   - ```git commit -M```
   - ```git push origin [BRANCH_NAME]```
