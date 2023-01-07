@@ -369,5 +369,5 @@ README.html
   - Reverter todas as alterações ........... ```git checkout .```
   - Copiar um repositório .................. ```git clone```
   - Adicionar todas as alterações .......... ```gitt add -A```
-  - ```git commit -M```
-  - ```git push origin [BRANCH_NAME]```
+  - Criando o commit ....................... ```git commit -M```
+  - Enviando o commit ...................... ```git push origin [BRANCH_NAME]```
