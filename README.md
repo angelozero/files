@@ -168,7 +168,7 @@ fabric.properties
 
 
 # Created by https://www.gitignore.io/api/git,java,maven,eclipse,windows
-
+# IDE
 ### Eclipse ###
 
 .metadata
